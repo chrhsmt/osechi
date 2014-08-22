@@ -1,0 +1,28 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>{{ site.name }} {{ site.posts.last.title }}</title>
+        <link>{{ site.url }}</link>
+        <description>{{ site.description }}</description>
+        <language>ja</language>
+        <copyright>Copyright 2014</copyright>
+{% assign asc_posts = site.posts | sort %}
+        <lastBuildDate>{{ asc_posts.last.date | date_to_rfc822 }}</lastBuildDate>
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        
+{% for post in site.posts %}
+        <item>
+            <title>{{ post.title }}</title>
+            <description><![CDATA[
+                {{ post.content }}
+            ]]></description>
+            <link>{{ site.url }}/{{ post.url }}</link>
+            <guid>{{ site.url }}/{{ post.url }}</guid>
+            <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        </item>
+{% endfor %}
+
+    </channel>
+</rss>
