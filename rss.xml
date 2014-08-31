@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>おせち 通販 | 2015 test</title>
+        <link>http://おせち.co</link>
+        <description>2015年のおせちに関する情報を発信します</description>
+        <language>ja</language>
+        <copyright>Copyright 2014</copyright>
+
+        <lastBuildDate>Sat, 30 Aug 2014 13:43:52 -0000</lastBuildDate>
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        
+
+        <item>
+            <title>test</title>
+            <description><![CDATA[
+                <h1>&#39;Allo, &#39;Allo!</h1>
+
+<h2>h2</h2>
+
+<h3>h3</h3>
+
+<h4>h4</h4>
+
+<p>You now have</p>
+
+<ul>
+<li>Jekyll</li>
+<li>Sass</li>
+<li>Coffeescript tools</li>
+<li>redcarpet markdown parser and Pygments highlighter</li>
+</ul>
+
+<p>installed.</p>
+
+<p><strong>Enjoy coding!</strong></p>
+
+            ]]></description>
+            <link>http://おせち.co//test/test</link>
+            <guid>http://おせち.co//test/test</guid>
+            <pubDate>Sat, 30 Aug 2014 13:43:52 -0000</pubDate>
+        </item>
+
+
+    </channel>
+</rss>
