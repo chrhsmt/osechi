@@ -1,0 +1,32 @@
+<aside>
+  <div class="ad">
+    <?php if ( function_exists('dynamic_sidebar') && dynamic_sidebar(4) ) : else : //アドセンス ?>
+    <?php endif; ?>
+  </div>
+  <!-- RSSボタンです -->
+  <div class="rssbox"> <a href="{{ site.url }}/?feed=rss2"><i class="fa fa-rss-square"></i>&nbsp;購読する</a> </div>
+  <!-- RSSボタンここまで -->
+  <!--
+  <div id="mybox">
+    <?php if ( function_exists('dynamic_sidebar') && dynamic_sidebar(1) ) : else : //サイドウイジェット読み込み ?>
+    <?php endif; ?>
+  </div>
+  -->
+  <!-- スマホだけのアドセンス -->
+  <!--
+  <?php if(is_mobile()) { //スマホの場合 ?>
+  -->
+  <div style="padding-top:10px;">
+{% include ad.html %}
+  </div>
+  <!--
+  <?php } else { //PCの場合 ?>
+  <?php } ?>
+  -->
+  <!-- /スマホだけのアドセンス -->
+  <!--
+  <div id="scrollad">
+      <?php get_template_part('scroll-ad'); //追尾式広告 ?>
+  </div>
+  -->
+</aside>

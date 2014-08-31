@@ -3,10 +3,13 @@
 # 2. config.build.yml
 # 3. config.yml
 
-name: osechi
-description: osechi
+#permalink: /:categories/:year-:month-:day/:title
+permalink: /:categories/:title
+name: おせち 通販 | 2015
+description: 2015年のおせちに関する情報を発信します
+url: http://おせち.co
 author:
-  name: osechi
+  name: c.h
   email: chr@chrhsmt.com
 
 # Grunt handles images and assets.
@@ -24,3 +27,9 @@ markdown: redcarpet
 #   extensions: ['fenced_code_blocks', 'smart']
 
 pygments: true
+
+paginate: 5
+paginate_path: "/page:num"
+
+HEADER_IMAGE_WIDTH: 980
+HEADER_IMAGE_HEIGHT: 250

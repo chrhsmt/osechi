@@ -1,9 +1,73 @@
----
-layout: default
----
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+{% include header.html %}
 
-<div class="post">
+<div id="content" class="clearfix">
+  <div id="contentInner">
+    <main>
+      <article>
+        <div class="post"> 
+          <!--ぱんくず -->
+          <div id="breadcrumb">
+            <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"> <a href="{{ site.url }}" itemprop="url"> <span itemprop="title">ホーム</span> </a> &gt; </div>
+            {% for cat in page.categories %}
+            <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"> <span itemprop="title">{{ cat }}</span> &gt; </div>
+            {% endfor %}
+          </div>
+          <!--/ ぱんくず -->
+
+          <section>
+            <h1 class="entry-title">
+              {{ page.title }}
+            </h1>
+            <div class="blogbox">
+              <p><span class="kdate"><i class="fa fa-calendar"></i>&nbsp;
+                <time class="entry-date" datetime="{{ page.date | date_to_xmlschema }}">
+                  {{ page.date | date: '%Y/%m/%d' }}
+                </time>
+                &nbsp;
+                <i class="fa fa-repeat"></i>&nbsp;{{ page.date | date: '%Y/%m/%d' }}</span> </p>
+            </div>
 {{ content }}
+          </section>
+          <!--/section-->
+          <p class="tagst"><i class="fa fa-tags"></i>&nbsp;-
+            {{ page.categories | join:',' }}
+          </p>
+          <div style="padding:20px 0px;">
+{% include ad.html %}
+            <!--
+            <?php if(is_mobile()) { //スマホの場合 ?>
+            <?php } else { //PCの場合 ?>
+            -->
+            <div class="smanone" style="padding-top:10px;">
+{% include ad.html %}
+            </div>
+            <!--
+            <?php } ?>
+            -->
+          </div>
+{% include sns.html %}
+                    
+          <!--ページナビ-->
+          <div class="p-navi clearfix">
+            <dl>
+            {% if page.previous.url %}
+              <dt>PREV </dt>
+              <dd><a href="{{ page.previous.url }}">{{ page.next.title }}</a></dd>
+            {% endif %}
+            {% if page.next.url %}
+              <dt>NEXT </dt>
+              <dd><a href="{{ page.next.url }}">{{ page.next.title }}</a></dd>
+            {% endif %}
+            </dl>
+          </div>
+        </div>
+        <!--/post--> 
+      </article>
+    </main>
+  </div>
+  <!-- /#contentInner -->
+{% include sidebar.html %}
 </div>
+<!--/#content -->
+
+{% include footer.html %}
