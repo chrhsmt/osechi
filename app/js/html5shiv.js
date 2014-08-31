@@ -37,14 +37,14 @@
         //if the hidden property is implemented we can assume, that the browser supports basic HTML5 Styles
         supportsHtml5Styles = ('hidden' in a);
 
-        supportsUnknownElements = a.childNodes.length == 1 || (function() {
+        supportsUnknownElements = a.childNodes.length === 1 || (function() {
           // assign a false positive if unable to shiv
           (document.createElement)('a');
           var frag = document.createDocumentFragment();
           return (
-            typeof frag.cloneNode == 'undefined' ||
-            typeof frag.createDocumentFragment == 'undefined' ||
-            typeof frag.createElement == 'undefined'
+            typeof frag.cloneNode === 'undefined' ||
+            typeof frag.createDocumentFragment === 'undefined' ||
+            typeof frag.createElement === 'undefined'
           );
         }());
     } catch(e) {
@@ -79,7 +79,7 @@
    */
   function getElements() {
     var elements = html5.elements;
-    return typeof elements == 'string' ? elements.split(' ') : elements;
+    return typeof elements === 'string' ? elements.split(' ') : elements;
   }
 
   /**
@@ -90,10 +90,10 @@
    */
   function addElements(newElements, ownerDocument) {
     var elements = html5.elements;
-    if(typeof elements != 'string'){
+    if(typeof elements !== 'string'){
       elements = elements.join(' ');
     }
-    if(typeof newElements != 'string'){
+    if(typeof newElements !== 'string'){
       newElements = newElements.join(' ');
     }
     html5.elements = elements +' '+ newElements;
@@ -274,7 +274,7 @@
      * @memberOf html5
      * @type Boolean
      */
-    'shivCSS': (options.shivCSS !== false),
+    'shivCSS': (options.shivCSS !==== false),
 
     /**
      * Is equal to true if a browser supports creating unknown/HTML5 elements
@@ -289,7 +289,7 @@
      * @memberOf html5
      * @type Boolean
      */
-    'shivMethods': (options.shivMethods !== false),
+    'shivMethods': (options.shivMethods !==== false),
 
     /**
      * A string to describe the type of `html5` object ("default" or "default print").

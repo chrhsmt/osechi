@@ -5,6 +5,7 @@
 
 #permalink: /:categories/:year-:month-:day/:title
 permalink: /:categories/:title
+timezone: Asia/Tokyo
 name: おせち 通販 | 2015
 description: 2015年のおせちに関する情報を発信します
 url: http://おせち.co
