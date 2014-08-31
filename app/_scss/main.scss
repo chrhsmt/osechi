@@ -1,4 +1,8 @@
+
+@import "variables";
+
 @charset "UTF-8";
+
 /*---------------------------------------------------------
 Theme Name: stinger5ver20140820
 Theme URI: http://wp-fun.com
@@ -21,10 +25,10 @@ main, article, aside, header, canvas, details, figcaption, figure, footer, nav, 
 body {
     min-width: 320px;
     word-wrap: break-word;
-    background-color:#f2f2f2;
+    background-color: $theme-bgcolor;
 }
 body.mceContentBody {
-    background-color:#fff;
+    background-color: $content-bgcolor;
 }
 
 /* リンクの色 */
@@ -105,7 +109,7 @@ p {
 
 header .sitename {
     font-size: 22px;
-    color: #fff;
+    color: $content-bgcolor;
     line-height: 30px;
     font-family: 'Oswald', sans-serif;
     padding: 10px 0px 0px;
@@ -128,7 +132,7 @@ header h1 {
     font-weight: normal;
 }
 header a {
-    color: #FFF;
+    color: $content-bgcolor;
     text-decoration: none;
 }
 header .descr {
@@ -158,7 +162,7 @@ header .descr {
 
 h2 {
     position: relative;
-    background: #f3f3f3;
+    background: $theme-bgcolor;
     color: #1a1a1a;
     font-size: 20px;
     line-height: 27px;
@@ -171,7 +175,7 @@ h2 {
 h2:after {
     content: '';
     position: absolute;
-    border-top: 10px solid #f3f3f3;
+    border-top: 10px solid $theme-bgcolor;
     border-right: 10px solid transparent;
     border-left: 10px solid transparent;
     bottom: -10px;
@@ -181,7 +185,7 @@ h2:after {
 h2:before {
     content: '';
     position: absolute;
-    border-top: 10px solid #f3f3f3;
+    border-top: 10px solid $theme-bgcolor;
     border-right: 10px solid transparent;
     border-left: 10px solid transparent;
     bottom: -10px;
@@ -251,7 +255,7 @@ footer h4 a {
 }
 /* 引用 */
 .post blockquote {
-    background-color: #f3f3f3;
+    background-color: $theme-bgcolor;
     background-image: url(images/quote.png);
     background-repeat: no-repeat;
     background-position: left top;
@@ -268,7 +272,7 @@ footer h4 a {
 }
 /* 引用じゃないけど引用と同じデザインにしたい時 */
 .inyoumodoki {
-    background-color: #f3f3f3;
+    background-color: $theme-bgcolor;
     background-image: url(images/quote.png);
     background-repeat: no-repeat;
     background-position: left top;
@@ -433,7 +437,7 @@ aside #mybox ul {
     padding: 5px 10px;
     margin-bottom: 10px;
     font-size: 14px;
-    color: #fff;
+    color: $content-bgcolor;
     box-sizing: border-box;
     text-decoration: none;
 }
@@ -690,16 +694,16 @@ nav li a:hover {
     padding: 6px 9px 5px 9px;
     text-decoration: none;
     width: auto;
-    color: #fff;
+    color: $content-bgcolor;
     background-color: #999;
 }
 .pagination a:hover {
-    color: #fff;
+    color: $content-bgcolor;
     background-color: #666666;
 }
 .pagination .current {
     padding: 6px 9px 5px 9px;
-    color: #fff;
+    color: $content-bgcolor;
     background-color: #CCCCCC;
 }
 /*--------------------------------
@@ -768,12 +772,12 @@ SNS
     font-size: 14px;
     padding: 3px;
     text-align: center;
-    background-color: #f3f3f3;
+    background-color: $theme-bgcolor;
 }
 #wp-calendar td {
     text-align: center;
     padding: 0px;
-    background-color: #fff;
+    background-color: $content-bgcolor;
 }
 #wp-calendar caption {
     font-weight: bold;
@@ -798,7 +802,7 @@ PAGE TOP
 #page-top a {
     background: #665e53;
     text-decoration: none;
-    color: #fff;
+    color: $content-bgcolor;
     padding: 10px;
     text-align: center;
     display: block;
@@ -808,7 +812,7 @@ PAGE TOP
 #page-top a:hover {
     text-decoration: none;
     background: #999;
-    color: #fff;
+    color: $content-bgcolor;
 }
 /*--------------------------------
 コメント
@@ -838,7 +842,7 @@ PAGE TOP
     font-size: 14px;
     line-height: 20px;
     color: #333;
-    background-color: #f3f3f3;
+    background-color: $theme-bgcolor;
     padding-top: 10px;
     padding-right: 20px;
     padding-bottom: 10px;
@@ -887,7 +891,7 @@ PAGE TOP
 }
 #comments #commentform .tags {
     padding: 10px;
-    background-color: #f3f3f3;
+    background-color: $theme-bgcolor;
     font-size: 13px;
 }
 #comments #commentlist img {
@@ -925,14 +929,14 @@ ul.children {
 #comments textarea {
     margin-bottom: 10px;
     width: 100%;
-    border: 1px #f2f2f2 solid;
+    border: 1px $theme-bgcolor solid;
 }
 #comments input {
     box-sizing: border-box;
     padding: 10px;
     width: 100%;
     border-radius: 2px;
-    border: 1px #f2f2f2 solid;
+    border: 1px $theme-bgcolor solid;
 }
 /* コメントボタン */
 #comments input[type="submit"] {
@@ -973,7 +977,7 @@ header {
     margin: 0px;
 }
 main {
-    background-color: #fff;
+    background-color: $content-bgcolor;
     padding: 20px 10px;
     margin: 0 -10px 20px;
 }
@@ -1013,7 +1017,7 @@ header {
     margin: 0;
 }
 main {
-    background-color: #fff;
+    background-color: $content-bgcolor;
     border-radius: 4px;
     padding: 20px 40px;
 }
@@ -1081,7 +1085,7 @@ nav {
 main {
     margin-right: 320px;
     margin-left: 0px;
-    background-color: #fff;
+    background-color: $content-bgcolor;
     border-radius: 4px;
     padding: 20px 40px;
 }
@@ -1116,7 +1120,7 @@ p {
 /*中見出し*/
 h2 {
     position: relative;
-    background: #f3f3f3;
+    background: $theme-bgcolor;
     color: #1a1a1a;
     font-size: 20px;
     line-height: 30px;
@@ -1129,7 +1133,7 @@ h2 {
 h2:after {
     content: '';
     position: absolute;
-    border-top: 10px solid #f3f3f3;
+    border-top: 10px solid $theme-bgcolor;
     border-right: 10px solid transparent;
     border-left: 10px solid transparent;
     bottom: -10px;
@@ -1138,7 +1142,7 @@ h2:after {
 h2:before {
     content: '';
     position: absolute;
-    border-top: 10px solid #f3f3f3;
+    border-top: 10px solid $theme-bgcolor;
     border-right: 10px solid transparent;
     border-left: 10px solid transparent;
     bottom: -10px;
@@ -1209,16 +1213,16 @@ h2:before {
     padding: 6px 9px 5px 9px;
     text-decoration: none;
     width: auto;
-    color: #fff;
+    color: $content-bgcolor;
     background-color: #999;
 }
 .pagination a:hover {
-    color: #fff;
+    color: $content-bgcolor;
     background-color: #666666;
 }
 .pagination .current {
     padding: 6px 9px 5px 9px;
-    color: #fff;
+    color: $content-bgcolor;
     background-color: #CCCCCC;
 }
 /*-- ここまで --*/
