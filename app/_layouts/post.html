@@ -26,6 +26,11 @@
                 &nbsp;
                 <i class="fa fa-repeat"></i>&nbsp;{{ page.updatedDate | date: '%Y/%m/%d' }}</span> </p>
             </div>
+            {% if page.header_image && page.header_image_alt %}
+            <p>
+              <img src="{{ page.header_image }}" alt="{{ page.header_image_alt }}" />
+            </p>
+            {% endif %}
 {{ content }}
           </section>
           <!--/section-->
