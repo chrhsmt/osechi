@@ -1,7 +1,9 @@
 <aside>
   <div class="ad">
+  <!--
     <?php if ( function_exists('dynamic_sidebar') && dynamic_sidebar(4) ) : else : //アドセンス ?>
     <?php endif; ?>
+  -->
   </div>
   <!-- RSSボタンです -->
   <div class="rssbox"> <a href="{{ site.url }}/rss.xml"><i class="fa fa-rss-square"></i>&nbsp;購読する</a> </div>
@@ -24,9 +26,7 @@
   <?php } ?>
   -->
   <!-- /スマホだけのアドセンス -->
-  <!--
   <div id="scrollad">
-      <?php get_template_part('scroll-ad'); //追尾式広告 ?>
+{% include scroll-ad.html %}
   </div>
-  -->
 </aside>
