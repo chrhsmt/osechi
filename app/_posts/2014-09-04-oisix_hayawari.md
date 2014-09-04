@@ -6,7 +6,7 @@ header_image_alt: "オイシックスおせち"
 thumbnail: "http://www26.a8.net/svt/bgt?aid=140904624481&wid=003&eno=01&mid=s00000000488020075000&mc=1"
 date:   2014-09-04 12:30:00 +0900
 updatedDate: 2014-09-04 12:30:00 +0900
-categories: tips
+categories: recommend
 keywords: "oisix,おいしっくす,早割"
 ---
 
