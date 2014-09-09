@@ -4,8 +4,8 @@ title:  "ぐるなび おせち早割"
 header_image: "/img/gurunavi_capture.jpg"
 header_image_alt: "ぐるなびおせち"
 thumbnail: "/img/thumb_gurunavi_osechi01.jpg"
-date:   2014-09-10 04:30:00 +0900
-updatedDate: 2014-09-10 04:30:00 +0900
+date:   2014-09-06 15:30:00 +0900
+updatedDate: 2014-09-07 0:55:00 +0900
 categories: recommend
 keywords: "ぐるなび,早割"
 ---
