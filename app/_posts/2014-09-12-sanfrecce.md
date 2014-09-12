@@ -4,8 +4,8 @@ title:  "サンフレッチェ広島おせち"
 header_image: "http://www.sanfrecce.co.jp/img/?n=4684"
 header_image_alt: "サンフレッチェ広島おせち"
 thumbnail: "/img/thumb_sanfrecce_001.jpg"
-date:   2014-09-12 16:40:00 +0900
-updatedDate: 2014-09-12 16:40:00 +0900
+date:   2014-09-12 16:20:00 +0900
+updatedDate: 2014-09-12 16:20:00 +0900
 categories: recommend
 keywords: "サンフレッチェ,サンフレッチェ広島,広島"
 ---
