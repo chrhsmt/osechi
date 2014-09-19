@@ -23,6 +23,8 @@ keywords: "川崎日航ホテル"
 
 また、三段重は10月末までの早期予約で1,000円引きになる特典とのこと。
 
+[川崎日航ホテル おせち予約ページ](http://www.kawasaki-nikko-hotel.com/news/osechi2014.html)
+
 以下引用
 
 【川崎日航ホテルおせち料理】<br>
