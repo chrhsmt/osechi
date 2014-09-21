@@ -4,7 +4,7 @@ title: おせち通販 | 2015
 ---
 
 <div id="topnews">
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <dl class="clearfix">
     <dt> <a href="{{ post.url }}">
     {% if post.thumbnail %}
@@ -31,4 +31,30 @@ title: おせち通販 | 2015
     </dd>
   </dl>
 {% endfor %}
+</div>
+
+<div class="pagination">
+<div class="float-left">
+  {% if paginator.previous_page %}
+    <span><a href="/page{{ paginator.previous_page }}">Previous</a></span>
+  {% endif %}
+</div>
+
+<div class="center float-left">
+  <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+<!--
+  {% for page in (1..paginator.total_pages) %}
+  {% if page == paginator.page %}
+  <span class="current">{{ page }}</span>
+  {% else %}
+  <a href='{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}' class="inactive">{{ page }}</a>
+  {% endif %}
+  {% endfor %}
+-->
+</div>
+<div class="float-right">
+  {% if paginator.next_page %}
+    <span><a href="/page{{ paginator.next_page }}">Next</a></span>
+  {% endif %}
+</div>
 </div>

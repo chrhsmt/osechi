@@ -96,6 +96,13 @@ img.size-full, img.size-large {
     width: 100%;
     height: 100%;
 }
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+
 /*--------------------------------
 各フォント設定
 ---------------------------------*/
@@ -1224,6 +1231,14 @@ h2:before {
     padding: 6px 9px 5px 9px;
     color: $content-bgcolor;
     background-color: #CCCCCC;
+}
+.pagination > div.center {
+    width: 70%;
+}
+
+.pagination > div.center > span, .pagination > div.center > a {
+    display: inline-block;
+    float: none;
 }
 /*-- ここまで --*/
 }
