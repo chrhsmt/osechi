@@ -2,7 +2,7 @@
 layout: post
 title:  "ダイワロイヤルホテルズオリジナル　寿(ことほ)ぐおせち"
 header_image: "http://shop.daiwaresort.jp/osechi/images/index/topImage.jpg"
-header_image_alt: "NHKニュース"
+header_image_alt: "ダイワロイヤルホテルズおせち"
 thumbnail: "/img/thumb_daiwaresort_001.jpg"
 date:   2014-09-24 13:30:00 +0900
 updatedDate: 2014-09-24 13:30:00 +0900
