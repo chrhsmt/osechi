@@ -23,7 +23,7 @@ keywords: "関西,阪急,阪神,高島屋,大丸松坂屋,近鉄,しまかぜ,�
 
 ### コラボレーション
 
-近鉄百貨店は10月10日に受け付けを始め、伊勢志摩を巡る近畿日本鉄道の観光特急「しまかぜ」が京都から定期運行するのを記念した６両編成（６段重）・長さ125.2センチの「和洋風おせち」（３万2400円）を300個限定で販売。また、日本一高いビル、あべのハルカス（大阪市阿倍野区）にあやかった商品もそろえるようですね。
+<a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3138644&pid=882983388" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3138644&pid=882983388" height="1" width="1" border="0">近鉄百貨店</a>は10月10日に受け付けを始め、伊勢志摩を巡る近畿日本鉄道の観光特急「しまかぜ」が京都から定期運行するのを記念した６両編成（６段重）・長さ125.2センチの「和洋風おせち」（３万2400円）を300個限定で販売。また、日本一高いビル、あべのハルカス（大阪市阿倍野区）にあやかった商品もそろえるようですね。
 
 * [近鉄百貨店、特急「しまかぜ」のおせち予約開始へ　三重 / MSN産経ニュース](http://sankei.jp.msn.com/region/news/140923/mie14092307000001-n1.htm)
 * [近鉄百貨店がおせち予約開始へ、「しまかぜ」「あべのハルカス」モチーフも　／大阪 / Yahooニュース](http://headlines.yahoo.co.jp/hl?a=20140919-00000067-minkei-l27)
@@ -34,6 +34,7 @@ keywords: "関西,阪急,阪神,高島屋,大丸松坂屋,近鉄,しまかぜ,�
 
 [近畿日本鉄道(http://www.kintetsu.co.jp/senden/shimakaze/event/)](http://www.kintetsu.co.jp/senden/shimakaze/event/)
 
+<a href="http://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3138644&pid=882983388" target="_blank" ><img src="http://ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3138644&pid=882983388" height="1" width="1" border="0">近鉄百貨店 おせち</a>
 
 だんだん熱くなってきましたね！
 
