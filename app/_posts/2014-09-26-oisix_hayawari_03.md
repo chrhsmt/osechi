@@ -7,7 +7,7 @@ thumbnail: "http://www26.a8.net/svt/bgt?aid=140904624481&wid=003&eno=01&mid=s000
 date:   2014-09-26 23:30:00 +0900
 updatedDate: 2014-09-26 23:30:00 +0900
 categories: recommend
-keywords: "oisix,おいしっくす,早割"
+keywords: "oisix,おいしっくす,オイシックス,早割"
 ---
 
 どうも。管理人です。
