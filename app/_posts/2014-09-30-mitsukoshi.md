@@ -27,17 +27,16 @@ keywords: "三越,レトロ,モダン,杉浦非水"
 なんとも洒落てますね。
 
 杉浦非水画「新玉（あらたま）」和洋二段 / 48,600円<br />
-として、<a href="http://mitsukoshi.mistore.jp/osechi/index.html" target="_blank">三越オンラインショップ</a>でも10/1から販売開始。
+として、<a href="http://click.linksynergy.com/fs-bin/click?id=dbuwokL1/dI&offerid=131465.10000370&type=4&subid=0" target="_blank">三越オンラインショップ</a>でも10/1から販売開始。
 
-<a href="http://mitsukoshi.mistore.jp/osechi/index.html" target="_blank">
-    <img src="http://www.mistore.jp/others/affiliate/bn/mitsukoshi_120_60.jpg">
-</a>
+<a href="http://click.linksynergy.com/fs-bin/click?id=dbuwokL1/dI&offerid=131465.10000370&type=4&subid=0" target="_blank"><img alt="三越オンラインストア" border="0" src="http://www.mistore.jp/others/affiliate/bn/mitsukoshi_120_60.jpg"></a>
+<img border="0" width="1" height="1" src="http://ad.linksynergy.com/fs-bin/show?id=dbuwokL1/dI&bids=131465.10000370&type=4&subid=0">
 
 他にも、
 杉浦非水画「眞鶴（まなづる）」和食一段 / 43,200円<br />
 などもあるようですね。
 
-<a href="http://mitsukoshi.mistore.jp/osechi/index.html" target="_blank">
+<a href="http://click.linksynergy.com/fs-bin/click?id=dbuwokL1/dI&offerid=131465.10000370&type=4&subid=0" target="_blank">
     <img src="/img/mitsukoshi_manaduru.jpg">
 </a>
 
