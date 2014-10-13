@@ -326,7 +326,7 @@ footer h4 a {
     padding-left: 110px;
 }
 #topnews dl {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     padding-bottom: 20px;
     border-bottom-width: 1px;
     border-bottom-style: dotted;
@@ -625,6 +625,12 @@ aside #search {
 /*--------------------------------
 メニュー
 ---------------------------------*/
+header > nav {
+    background-color: $content-bgcolor;
+    border-bottom: 1px dotted #aaaaaa;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
 nav li {
     position: relative;
     float: left;
@@ -985,7 +991,7 @@ header {
 }
 main {
     background-color: $content-bgcolor;
-    padding: 20px 10px;
+    padding: 15px 10px;
     margin: 0 -10px 20px;
 }
 section {

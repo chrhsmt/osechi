@@ -33,7 +33,7 @@ pygments: true
 paginate: 5
 paginate_path: "/page:num"
 
-header_image: "/img/header_image_02.jpg"
-# HEADER_IMAGE_WIDTH: 980
-HEADER_IMAGE_WIDTH: 334
+header_image: "/img/header_image_03.jpg"
+HEADER_IMAGE_WIDTH: 980
+# HEADER_IMAGE_WIDTH: 334
 HEADER_IMAGE_HEIGHT: 250
