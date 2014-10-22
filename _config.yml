@@ -15,7 +15,8 @@ author:
 
 # Grunt handles images and assets.
 exclude: ['img', 'css', 'js', 'fonts',
-          '**.png', '**.jpg', '**.jpeg', '**.gif', '**.webp', '**.svg', '**.ico']
+          '**.png', '**.jpg', '**.jpeg', '**.gif', '**.webp', '**.svg', '**.ico',
+          'Rakefile', 'README.md', 'config.rb', 'vendor']
 
 include: ['.htaccess']
 excerpt_separator: "<!-- more -->"
