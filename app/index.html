@@ -36,7 +36,11 @@ title: おせち通販 | 2015
 <div class="pagination">
 <div class="float-left">
   {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <span><a href="/">Previous</a></span>
+    {% else %}
     <span><a href="/page{{ paginator.previous_page }}">Previous</a></span>
+    {% endif %}
   {% endif %}
 </div>
 

@@ -5,7 +5,7 @@ header_image: "/img/oisix_capture.jpg"
 header_image_alt: "オイシックスおせち"
 thumbnail: "http://www26.a8.net/svt/bgt?aid=140904624481&wid=003&eno=01&mid=s00000000488020075000&mc=1"
 date:   2014-09-14 22:00:00 +0900
-updatedDate: 2014-09-14 22:00:00 +0900
+updatedDate: 2014-10-29 14:10:00 +0900
 categories: recommend
 keywords: "oisix,おいしっくす,早割"
 ---
@@ -17,6 +17,9 @@ keywords: "oisix,おいしっくす,早割"
 <!-- more -->
 
 ## 増えたラインナップを見てみる
+
+#### 関連
+* [Oisixおせち 早割 ](/recommend/2014-09-04/oisix_hayawari/)
 
 追加で増えたものを含め、一覧は<a href="http://px.a8.net/svt/ejp?a8mat=2BW2PC+7YDKAQ+3RK+3BLZFL&a8ejpredirect=http%3A%2F%2Fwww.oisix.com%2Fshop.gift--ostop06__html.htm" target="_blank">こちら</a>から見られます。
 
