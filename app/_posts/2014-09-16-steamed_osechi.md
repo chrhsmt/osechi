@@ -5,7 +5,7 @@ header_image: "http://www.budoo.co.jp/images/osechi/main.jpg"
 header_image_alt: "蒸すおせち"
 thumbnail: "/img/thumb_steam_osechi_001.jpg"
 date:   2014-09-16 17:15:00 +0900
-updatedDate: 2014-09-16 17:15:00 +0900
+updatedDate: 2014-10-31 00:00:00 +0900
 categories: news
 keywords: "蒸す,むす,蒸すおせち,蒸,蒸のおせち"
 ---
@@ -29,3 +29,8 @@ keywords: "蒸す,むす,蒸すおせち,蒸,蒸のおせち"
 なかなか興味深いですね。
 
 ではでは。
+
+#### ご一緒にどうぞ
+<a href="http://px.a8.net/svt/ejp?a8mat=2BW2PC+81CQBM+2NGY+63H8H" target="_blank">
+<img border="0" width="468" height="60" alt="" src="http://www27.a8.net/svt/bgt?aid=140904624486&wid=003&eno=01&mid=s00000012373001024000&mc=1"></a>
+<img border="0" width="1" height="1" src="http://www12.a8.net/0.gif?a8mat=2BW2PC+81CQBM+2NGY+63H8H" alt="">
