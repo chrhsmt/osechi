@@ -37,4 +37,8 @@ keywords: "生おせち,ベルーナ,belluna"
 <img border="0" width="468" height="60" alt="" src="http://www22.a8.net/svt/bgt?aid=141025515268&wid=003&eno=01&mid=s00000009463001140000&mc=1"></a>
 <img border="0" width="1" height="1" src="http://www12.a8.net/0.gif?a8mat=2BYNZF+4FK8G2+210M+6SCAP" alt="">
 
+<a href="http://px.a8.net/svt/ejp?a8mat=2BYNZF+4FK8G2+210M+6U20X" target="_blank">
+<img border="0" width="234" height="60" alt="" src="http://www29.a8.net/svt/bgt?aid=141025515268&wid=003&eno=01&mid=s00000009463001148000&mc=1"></a>
+<img border="0" width="1" height="1" src="http://www12.a8.net/0.gif?a8mat=2BYNZF+4FK8G2+210M+6U20X" alt="">
+
 ではでは。
