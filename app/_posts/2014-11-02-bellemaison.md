@@ -5,7 +5,7 @@ header_image: "https://sociopouch.files.wordpress.com/2014/10/a65703pb01_8871401
 header_image_alt: "ミッキーおせち"
 thumbnail: "/img/thumb_bellemaison_mickie.jpg"
 date:   2014-11-02 22:00:00 +0900
-updatedDate: 2014-11-02 22:00:00 +0900
+updatedDate: 2014-11-16 14:30:00 +0900
 categories: recommend
 keywords: "ベルメゾン,ミッキー,プーさん,ハローキティ"
 ---
@@ -23,6 +23,8 @@ keywords: "ベルメゾン,ミッキー,プーさん,ハローキティ"
 ![一の重](http://img2.bellemaison.jp/product/pic_b/887201401/A65703pb04_8871401.jpg)
 ![二の重](http://img2.bellemaison.jp/product/pic_b/887201401/A65703pb05_8871401.jpg)
 ![三の重](http://img2.bellemaison.jp/product/pic_b/887201401/A65703pb06_8871401.jpg)
+
+![ディズニーおせち](http://monthly.bellemaison.jp/reg/ddc/osechi/osechi_index_images/main_img.gif)
 
 重箱はミッキーを象ったものとなっており、おかずに至ってもミッキー。和の重、オードブル、さらにはデザートの重という三段構成となっておりお子さんも大人も楽しめる内容になっているようですね。
 
